@@ -1,4 +1,4 @@
-![UNIT PULSAR ESP32 H2 Preview](resources/board_preview.png) 
+![UNIT PULSAR ESP32 H2 V1.0.0](resources/TOP_1v0.png) 
 
 We are currently working on the design of this new development board, **UNIT PULSAR ESP32 H2**, at UNIT Electronics. Stay tuned for upcoming updates, including the schematic and future iterations. Our goal is to provide comprehensive resources that support the use and development with the UNIT NANO ESP32 H2.
 
